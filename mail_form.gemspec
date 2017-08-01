@@ -8,10 +8,10 @@ Gem::Specification.new do |s|
   s.name        = "mail_form"
   s.version     = MailForm::VERSION
   s.authors     = ["Cristiano Alencar"]
-  s.email       = ["cristiano.alencar@integragrp.com.br"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of MailForm."
-  s.description = "TODO: Description of MailForm."
+  s.email       = ["cristiano.souza.mendonca@gmail.com"]
+  s.homepage    = "http://cristiano.mendonca.com"
+  s.summary     = "Summary of MailForm."
+  s.description = "Description of MailForm."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
